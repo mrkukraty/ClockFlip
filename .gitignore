@@ -1,0 +1,22 @@
+# Flutter
+.DS_Store
+.flutter-
+.packages
+.pub-cache
+.pubspec.lock
+build/
+ios/Flutter/flutter_export_environment.sh
+android/local.properties
+android/.gradle/
+*.iml
+*.hprof
+.idea/
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.orig
+*.class
+*.jar
